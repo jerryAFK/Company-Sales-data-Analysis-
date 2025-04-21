@@ -44,7 +44,6 @@ This project follows a **Star Schema** approach which is best suited for OLAP sy
 - Improved dashboard performance  
 - Better scalability and analytical depth
 
-![Star Schema](./images/star_schema_model.png)
 
 ---
 
@@ -58,7 +57,6 @@ An interactive dashboard is created using **Power BI** (or Tableau/Excel dependi
 - 🛍️ **Channel Distribution**
 - 🔄 **YOY Growth Analysis**
 
-![Dashboard](./images/review_in_2020.png)
 
 The visuals are dynamic and allow users to filter by year, country, and sales channel.
 
