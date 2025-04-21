@@ -2,7 +2,7 @@
 
 ## 🔍 Project Title: **Revenue Insights Using Dimensional Modeling**
 
-Snapshot: Go to screenshots of the project to view MySQL Workbench screenshots and my handwritten notes of the introduction to the "Demo company" i have taken for this project.
+Snapshot: Go to screenshots of the project to view MySQL Workbench screenshots and my handwritten notes of the introduction to the "Demo company" I have taken for this project.
 
 This project presents a complete **Business Intelligence (BI)** pipeline—from raw data to a fully functional dashboard using **dimensional modeling (Star Schema)** and modern BI tools. The dashboard helps visualize business performance, revenue trends, and customer distribution across different dimensions like region, year, and channel.
 
@@ -23,7 +23,7 @@ This project presents a complete **Business Intelligence (BI)** pipeline—from 
 This project follows a **Star Schema** approach which is best suited for OLAP systems and BI tools. The schema includes:
 
 **Fact Table:**
-- `fact_sales`
+  - `fact_sales`
   - `DateKey`
   - `ProductKey`
   - `CustomerKey`
@@ -49,10 +49,10 @@ This project follows a **Star Schema** approach which is best suited for OLAP sy
 
 ## 🖥️ Dashboard Overview
 
-An interactive dashboard is created using **Power BI** (or Tableau/Excel depending on your tool), visualizing:
+An interactive dashboard is created using **Power BI**, visualizing:
 
 - 📅 **Year-wise Revenue Trends**
-- 🌍 **Country-level Sales Performance**
+- 🌍 **City-level Sales Performance**
 - 📈 **Revenue by Customer Type**
 - 🛍️ **Channel Distribution**
 - 🔄 **YOY Growth Analysis**
